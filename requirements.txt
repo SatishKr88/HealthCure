@@ -1,0 +1,7 @@
+opencv-python
+numpy
+tensorflow
+scikit-learn==0.24.2
+imutils
+flask
+xgboost
